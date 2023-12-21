@@ -1,2 +1,2 @@
 # ML
-Repository of ML Division of Bangkit 2023 Bloomate Team Capstone
+Repository of MD Division of Bangkit 2023 Bloomate Team Capstone
